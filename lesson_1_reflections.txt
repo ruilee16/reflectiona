@@ -1,0 +1,22 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+I comparied every line in the result. It's like manully check the bug. But the diff commond do save me some time from comparing the whole code.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Well, I think this would help me to check my plot and the recheck typos and bugs. Syntax highlighting and parenthesis maching?
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Pros: I could commit the update by my own interest. This save my laptop from committing huge useless plots.
+Cons: If I forgot to save once, that might cause a big problem.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Well, I guess Google Docs doesn't have the directory to contain multipal files.
+
+How can you use the commands git log and git diff to view the history of files?
+Use git log to get the id and commitment from repository, and use git diff to compare those differences.
+
+How might using version control make you more confident to make changes that could break something?
+I could alway go back to my correct version.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I want learn web programming as well as web data grabbing.
+but I still do not understand the workspace setup processes and the function of these setups. for my title did not change as the tutorial did.
