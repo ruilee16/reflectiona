@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+1.When I want share my files with my team members. 2.When I have a internet access. 3.Easy to edit on remote repository.
