@@ -3,3 +3,15 @@ When I initialize a repository by using git init command, a .git file would be c
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Well, I guess staging area just store file or files that author wants to commit, and it could be commited to a git repository while working directory is a phycal stack at my computer which contains all files.
+
+How can you use the staging area to make sure you have one commit per logical change?
+well, I can do this by only add one file each time to the staging area
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+The first thing I could think of is running a website.  I could matain general contents same, while changing the css which is the tyle different in different branches.
+
+How do the diagrams help you visualize the branch structure?
+The diagrams show branches and commits in a very clear way. Now I understand the logic of branches and commits.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging could save my time from comparing endless codes. But it might cause conflicts and overwrite the code I want with other's codes.
